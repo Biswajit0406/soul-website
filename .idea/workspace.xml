@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f8b80aa-44e7-4d38-b0bb-604d9dd1c29c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Soul_Website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigFile/Configuration.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogDirector/soulwebsite.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjectPackage/PageObjectHomePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjectPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPackage/TestHomePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPackage/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UtilityPackage/ReadConfigFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UtilityPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UtilityPackage/custom_logger.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConfigFile/Configuration.ini" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PageObjectPackage/PageObjectHomePage.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/TestPackage/TestHomePage.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/TestPackage/conftest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/UtilityPackage/ReadConfigFile.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/UtilityPackage/custom_logger.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2rHs8WwJYv8lEfr6dDJuMC8uXSh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for TestHomePage.TestHomePage.test_logo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for TestHomePage.TestHomePage.test_logo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Soul_Website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestPackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestHomePage.TestHomePage.test_logo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for TestHomePage.TestHomePage.test_logo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f8b80aa-44e7-4d38-b0bb-604d9dd1c29c" name="Changes" comment="" />
+      <created>1736227175871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736227175871</updated>
+    </task>
+    <servers />
+  </component>
+</project>
