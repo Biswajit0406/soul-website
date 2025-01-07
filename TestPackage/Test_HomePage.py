@@ -10,7 +10,8 @@ from PageObjectPackage.PageObjectHomePage import HomePage
 from UtilityPackage.custom_logger import Logger
 
 
-class TestHomePage:
+class Test_HomePage:
+
     url = ReadConfigClass.get_url()
     logger = Logger.log()
 

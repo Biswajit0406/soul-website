@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f8b80aa-44e7-4d38-b0bb-604d9dd1c29c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Soul_Website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigFile/Configuration.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogDirector/soulwebsite.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjectPackage/PageObjectHomePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObjectPackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPackage/TestHomePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestPackage/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilityPackage/ReadConfigFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilityPackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilityPackage/custom_logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogDirector/soulwebsite.log" beforeDir="false" afterPath="$PROJECT_DIR$/LogDirector/soulwebsite.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPackage/TestHomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestPackage/Test_HomePage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +51,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Python tests for TestHomePage.TestHomePage.test_logo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for TestPackage.Test_HomePage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Soul_Website" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,13 +62,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestHomePage.TestHomePage.test_logo&quot;" />
+      <option name="_new_target" value="&quot;TestPackage.Test_HomePage&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for TestHomePage.TestHomePage.test_logo" />
+        <item itemvalue="Python tests.Python tests for TestPackage.Test_HomePage" />
       </list>
     </recent_temporary>
   </component>
